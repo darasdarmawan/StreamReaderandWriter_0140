@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StreamReaderandWriter", "StreamReaderandWriter\StreamReaderandWriter.vcxproj", "{1F38DE79-5F59-497A-B6FC-4D5732134948}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IosFileWithPath", "IosFileWithPath\IosFileWithPath.vcxproj", "{89412C2B-E9B5-4A54-83AC-A9C1211279E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{1F38DE79-5F59-497A-B6FC-4D5732134948}.Release|x64.Build.0 = Release|x64
 		{1F38DE79-5F59-497A-B6FC-4D5732134948}.Release|x86.ActiveCfg = Release|Win32
 		{1F38DE79-5F59-497A-B6FC-4D5732134948}.Release|x86.Build.0 = Release|Win32
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Debug|x64.ActiveCfg = Debug|x64
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Debug|x64.Build.0 = Debug|x64
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Debug|x86.ActiveCfg = Debug|Win32
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Debug|x86.Build.0 = Debug|Win32
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Release|x64.ActiveCfg = Release|x64
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Release|x64.Build.0 = Release|x64
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Release|x86.ActiveCfg = Release|Win32
+		{89412C2B-E9B5-4A54-83AC-A9C1211279E1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
