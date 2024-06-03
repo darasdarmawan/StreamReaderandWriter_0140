@@ -31,9 +31,11 @@ int main() {
 	//jika file ada
 	if (infile.is_open())
 	{
+		//melakukan perulangan tiap baris
 		while (getline(infile, baris))
 		{
 			cout << baris << '\n';
 		}
+		infile.close();
 	}
 }
