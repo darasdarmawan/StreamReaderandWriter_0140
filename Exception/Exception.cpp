@@ -12,4 +12,10 @@ int main()
 		//pesan array integer 3 elemen
 		cout << data.at(5) << endl;
 	}
+	catch (exception& e) {
+		//penangkapan menggunakan obyek exception
+		cout << e.what() << endl;
+	}
+	cout << "Baris Program Yang Terakhir" << endl;
+	//*penanda 2: bahwa program berjalan tanpa berhenti
 }
