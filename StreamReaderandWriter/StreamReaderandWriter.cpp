@@ -20,6 +20,8 @@ int main() {
 		if (baris == "q") break;
 		outfile << baris << endl;
 	}
-
 	outfile.close();
+
+	//membuka file dalam mode membaca
+	ifstream infile;
 }
